@@ -1,0 +1,30 @@
+Log time: Tue Apr 10 16:30:29 -0700 2012
+log items:
+
+Time: Tue Apr 10 16:30:21 -0700 2012 : config file was re-read
+Time: Tue Apr 10 16:30:29 -0700 2012 : daemon is finished: terminated by user.
+----------------------------------------------------------
+Log time: Tue Apr 10 16:35:41 -0700 2012
+log items:
+
+swattana   147.144.23.165  Tue Apr 10 16:33 logged in
+swattana   147.144.23.61  Tue Apr 10 16:34 logged in
+swattana   147.144.23.165  Tue Apr 10 16:33 - 16:34  (00:00) logged out
+swattana   147.144.23.61  Tue Apr 10 16:34 - 16:34  (00:00) logged out
+Time: Tue Apr 10 16:35:35 -0700 2012 : config file was re-read
+Time: Tue Apr 10 16:35:41 -0700 2012 : daemon is finished: terminated by user.
+----------------------------------------------------------
+Log time: Tue Apr 10 16:38:57 -0700 2012
+log items:
+
+swattana   147.144.23.164  Tue Apr 10 16:36 logged in
+swattana   147.144.1.2  Tue Apr 10 16:37 logged in
+swattana   147.144.23.164  Tue Apr 10 16:36 - 16:37  (00:00) logged out
+swattana   147.144.1.2  Tue Apr 10 16:37 - 16:37  (00:00) logged out
+Time: Tue Apr 10 16:37:59 -0700 2012 : config file was re-read
+swattana     Tue Apr 10 16:38 logged in
+swattana     Tue Apr 10 16:38 - 16:38  (00:00) logged out
+swattana     Tue Apr 10 16:38 logged in
+swattana     Tue Apr 10 16:38 - 16:38  (00:00) logged out
+Time: Tue Apr 10 16:38:57 -0700 2012 : daemon is finished: terminated by user.
+----------------------------------------------------------

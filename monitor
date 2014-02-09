@@ -1,0 +1,11 @@
+#!/bin/bash
+# Program: monitor
+# Date: 4/10/12
+# Author: Sarn Wattanasri
+# Purpose: the wrapper for the monitor.rb daemon
+
+
+if [ "$1" != "--inbg" ]; then
+    $0.rb --inbg &
+    exit 0
+fi 
